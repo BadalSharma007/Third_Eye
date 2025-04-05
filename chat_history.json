@@ -1,0 +1,30 @@
+[
+    {
+        "user": "direction mood",
+        "llava": " \"Following the right direction brings a positive mood.\" "
+    },
+    {
+        "user": "take a photo",
+        "llava": " This is a photo of a person taking a picture. "
+    },
+    {
+        "user": "photo ke sath direction",
+        "llava": " 90 degree turn to left "
+    },
+    {
+        "user": "Sant Rampal",
+        "llava": " Sant Rampal is a spiritual leader and preacher, known for his teachings on devotion to God. He was born in India in 1950 and has gained popularity through his TV programs and religious discourses. He is considered to be an incarnation of Lord Kabir, who is revered as a Hindu saint. Sant Rampal's followers believe that he is the messenger of God and the pathway to salvation. "
+    },
+    {
+        "user": "describe the photo",
+        "llava": " Water bottle with label. "
+    },
+    {
+        "user": "accuracy Ki Thodi Kami hai",
+        "llava": " The accuracy is good, but not perfect. "
+    },
+    {
+        "user": "Baitha Hua Hai vah currency poochh Sakta",
+        "llava": " Baitha hua hai vah currency, sakta. "
+    }
+]
